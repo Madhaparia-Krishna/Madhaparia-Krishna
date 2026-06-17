@@ -99,7 +99,7 @@ CGPA: 8.0/10.0 | Expected Graduation: 2026
 ## Connect With Me
 
 - 💼 **LinkedIn:** [Krishna Madhaparia](https://www.linkedin.com/in/krishna-madhaparia)
-- 📧 **Email:** krishna.madhaparia2022@vitstudent.ac.in
+- 📧 **Email:** krishnamahendra2004@gmail.com
 - 🌐 **GitHub:** [Madhaparia-Krishna](https://github.com/Madhaparia-Krishna)
 - 📱 **Phone:** +254 7977062605
 

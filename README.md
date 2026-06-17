@@ -113,42 +113,6 @@ I'm a fourth-year **Bachelor of Science in Computer Science** student at **Strat
 
 ---
 
-## Education & Certifications
-
-### 🎓 Education
-
-**Strathmore University**  
-Bachelor of Science in Computer Science  
-Expected Graduation: **2027**  
-Current GPA: **3.59**
-
-**Shree Kutchi Leva Patel Samaj School**  
-A-Levels Certificate — Mean Grade: **B**  
-IGCSE Certificate — Mean Grade: **8 / Grade A equivalent**
-
-### 🏅 Certifications
-
-- AWS Academy Graduate - **Cloud Foundations**
-- AWS Academy Graduate - **Microservices and CI/CD Pipeline Builder**
-- CCNA: **Introduction to Networks**
-- CCNA: **Switching, Routing, and Wireless Essentials**
-- CCNA: **Enterprise Networking, Security, and Automation**
-- Cyber Threat Management
-- Introduction to Cybersecurity
-- HTML Essentials
-- Discovering Entrepreneurship
-- ICDL Certification: Word, Excel, and PowerPoint
-
----
-
-## Experience, Leadership & Community
-
-- **Volunteer - MP Shah Hospital Medical Camp:** Assisted with logistics, patient registration, and attendee guidance in a fast-paced healthcare setting.
-- **Service-Based Learning - Strathmore University:** Built teamwork, communication, and community service experience through structured service learning.
-- **Wildlife & Environmental Club:** Participated in clean-up drives, conservation initiatives, and environmental awareness campaigns.
-- **School Leadership & Sports:** Helped organize school events, sports days, and cultural programs; represented school in badminton and netball.
-
----
 
 ## GitHub Stats
 

@@ -6,16 +6,16 @@
 
 A passionate **Electronics & Communication Engineering** student specializing in full-stack development and data science. I thrive on building innovative solutions that bridge hardware and software, with a keen interest in web technologies, embedded systems, and AI-driven applications. Currently in my final year at **VIT Chennai**, I'm focused on creating impactful projects that solve real-world problems.
 
-- 🔭 **Current Focus:** Building full-stack applications, exploring machine learning applications in IoT, and developing scalable web solutions
-- 🌱 **Learning & Exploration:** Advanced React patterns, Next.js, Microservices architecture, Docker, Cloud technologies (AWS, Azure), and Deep Learning frameworks
-- ⚡ **Core Interests:** Full Stack Development, Data Science & Analytics, IoT & Embedded Systems, Machine Learning, Cloud Computing, and API Design
+- 🔭 **Current Focus:** Building full-stack healthcare applications, exploring machine learning pipelines, and developing scalable web solutions
+- 🌱 **Learning & Exploration:** Advanced React patterns, Next.js, Machine Learning deployment, Cloud technologies (AWS, Azure), and Data Engineering
+- ⚡ **Core Interests:** Full Stack Development, Data Science & Machine Learning, Healthcare Technology, IoT & Embedded Systems, and Cloud Computing
 
 ---
 
 ## Technical Ecosystem
 
 ### Core Competencies & Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 
 ### Frontend Development
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -24,38 +24,42 @@ A passionate **Electronics & Communication Engineering** student specializing in
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" /> <img src="https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge" />
 
 ### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 ---
 
 ## Featured Projects
 
 ### 🏥 **CareSync - Integrated Healthcare Platform**
-*Full Stack Application | Next.js, TypeScript, MongoDB, Twilio*
+*Full Stack Application | Next.js, TypeScript, MongoDB, Twilio, Sentry*
 - Developed a comprehensive healthcare management system with appointment scheduling, patient records management, and automated SMS notifications
 - Implemented secure authentication using NextAuth and role-based access control for patients, doctors, and admins
-- Real-time appointment tracking with automated reminders via Twilio integration
+- Real-time appointment tracking with automated reminders via Twilio integration and error monitoring with Sentry
+- **Tech Stack:** Next.js 14, React 18, TypeScript, Appwrite, Tailwind CSS, ShadCN, Twilio
 
 ### 🎓 **Student Performance Indicator**
 *Machine Learning Project | Python, Scikit-learn, Flask*
-- Built an end-to-end ML pipeline to predict student academic performance using regression models
-- Achieved 85%+ accuracy using ensemble learning techniques with hyperparameter tuning
+- Built an end-to-end ML pipeline to predict student academic performance using regression models (Linear, Lasso, Ridge, ElasticNet)
+- Achieved 88% R² score using Ridge Regression with comprehensive feature engineering and hyperparameter tuning
 - Deployed as a web application with Flask for real-time predictions and interactive visualizations
+- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Flask, Matplotlib, Seaborn
 
-### 📊 **Data Analysis & Visualization Dashboard**
-*Data Science Application | Python, Pandas, Plotly, Streamlit*
-- Created an interactive dashboard for exploratory data analysis with custom visualizations
-- Integrated data cleaning, transformation, and statistical analysis workflows
-- Implemented dynamic filtering and export capabilities for business intelligence reports
-
-### 🏠 **Real Estate Price Predictor**
+### 🏡 **Real Estate Price Predictor**
 *ML Web App | Python, Scikit-learn, Flask, JavaScript*
-- Designed a machine learning model to predict real estate prices based on multiple features
-- Built an intuitive web interface for users to input property details and get instant price estimates
-- Implemented feature engineering and model optimization for improved prediction accuracy
+- Designed a machine learning model to predict Bangalore real estate prices based on location, size, and amenities
+- Built an intuitive web interface with dynamic location selection and instant price estimates
+- Implemented feature engineering and model optimization achieving reliable prediction accuracy
+- **Tech Stack:** Python, Scikit-learn, Flask, HTML, CSS, JavaScript
+
+### 📊 **Data Analysis Projects**
+*Data Science & Visualization | Python, Pandas, Seaborn*
+- **Zomato Data Analysis:** Explored restaurant data with statistical analysis and interactive visualizations
+- **Diwali Sales Analysis:** Analyzed sales patterns to identify trends and customer behavior insights
+- Created comprehensive EDA workflows with data cleaning, transformation, and visual storytelling
+- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
@@ -77,12 +81,20 @@ A passionate **Electronics & Communication Engineering** student specializing in
 
 🎓 **B.Tech in Electronics & Communication Engineering**  
 *Vellore Institute of Technology (VIT), Chennai*  
-CGPA: 8.0/10.0 | Expected Graduation: 2026
+CGPA: 8.01/10.0 | Expected Graduation: May 2026
+
+📚 **Relevant Coursework:**
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Machine Learning
+- Digital Signal Processing
 
 🏆 **Certifications & Courses:**
 - **Full Stack Web Development** - Udemy (July 2023 - Feb 2024)
-- **Data Science & Machine Learning** - Coursera
-- **Azure Fundamentals (AZ-900)** - Microsoft
+- **Data Science & Machine Learning** - Multiple platforms
+- **Azure Fundamentals (AZ-900)** - Microsoft (In Progress)
 
 ---
 

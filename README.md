@@ -1,65 +1,152 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Electronics+and+Communication+Engineer+|+Full+Stack+Developer&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=190&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fourth-Year+Computer+Science+Student+%7C+Full-Stack+%26+Mobile+Developer+%7C+Cloud+%26+Cybersecurity+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" alt="Welcome Banner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhaparia-Krishna&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Madhaparia-Krishna?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
 </p>
 
 # Hi there, I'm Krishna Madhaparia 👋
 
-A passionate **Computer science** student specializing in full-stack development and data science. I thrive on building innovative solutions that bridge hardware and software, with a keen interest in web technologies, embedded systems, and AI-driven applications. Currently in my final year at **Strathmore University**, I'm focused on creating impactful projects that solve real-world problems.
+I'm a fourth-year **Bachelor of Science in Computer Science** student at **Strathmore University**, expected to graduate in **2027**. I enjoy building practical software solutions that combine clean user interfaces, secure backend systems, cloud services, databases, and mobile-first experiences. My interests sit at the intersection of **full-stack development, mobile applications, IoT, Firebase, AWS cloud fundamentals, networking, and cybersecurity**.
 
-- 🔭 **Current Focus:** Building full-stack healthcare applications, exploring machine learning pipelines, and developing scalable web solutions
-- 🌱 **Learning & Exploration:** Advanced React patterns, Next.js, Machine Learning deployment, Cloud technologies (AWS, Azure), and Data Engineering
-- ⚡ **Core Interests:** Full Stack Development, Data Science & Machine Learning, Healthcare Technology, IoT & Embedded Systems, and Cloud Computing
+- 🔭 **Current Focus:** Building practical full-stack, mobile, and IoT-based systems, including Firebase-powered dashboards and campus-focused applications.
+- 🌱 **Learning & Exploration:** AWS Cloud Foundations, microservices, CI/CD pipelines, secure API development, networking, and scalable application architecture.
+- ⚡ **Core Interests:** Full-Stack Development, Mobile Apps, Cloud Computing, IoT Systems, Cybersecurity, Networking, and Data Structures & Algorithms.
 
 ---
 
 ## Technical Ecosystem
 
 ### Core Competencies & Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
-### Frontend Development
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+### Frontend, Mobile & UI Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-### Backend Development & Databases
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+### Backend, Databases, Cloud & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-### Data Science & Machine Learning
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" /> <img src="https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge" />
+### Networking, Cybersecurity & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/ICDL-005EB8?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+</p>
 
 ---
 
 ## Featured Projects
 
-### 🏥 **CareSync - Integrated Healthcare Platform**
-*Full Stack Application | Next.js, TypeScript, MongoDB, Twilio, Sentry*
-- Developed a comprehensive healthcare management system with appointment scheduling, patient records management, and automated SMS notifications
-- Implemented secure authentication using NextAuth and role-based access control for patients, doctors, and admins
-- Real-time appointment tracking with automated reminders via Twilio integration and error monitoring with Sentry
-- **Tech Stack:** Next.js 14, React 18, TypeScript, Appwrite, Tailwind CSS, ShadCN, Twilio
+### 🌱 [VermIQ-Lite / IoT Semester Project](https://github.com/Madhaparia-Krishna/IoT-semester-project)
+**Smart Vermiculture Monitoring & Edge Intelligence System | React, TypeScript, Firebase, MQTT, ESP32**
 
-### 🎓 **Student Performance Indicator**
-*Machine Learning Project | Python, Scikit-learn, Flask*
-- Built an end-to-end ML pipeline to predict student academic performance using regression models (Linear, Lasso, Ridge, ElasticNet)
-- Achieved 88% R² score using Ridge Regression with comprehensive feature engineering and hyperparameter tuning
-- Deployed as a web application with Flask for real-time predictions and interactive visualizations
-- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Flask, Matplotlib, Seaborn
+- Built a modern IoT dashboard for real-time vermiculture monitoring using ESP32 sensor data.
+- Integrated Firebase services for authentication, Firestore storage, and real-time cloud-backed monitoring.
+- Implemented telemetry dashboards, sensor analytics, alerts, historical tracking, and responsive UI components.
+- Worked with IoT concepts including sensor telemetry, MQTT communication, cloud data sync, and dashboard visualization.
 
-### 🏡 **Real Estate Price Predictor**
-*ML Web App | Python, Scikit-learn, Flask, JavaScript*
-- Designed a machine learning model to predict Bangalore real estate prices based on location, size, and amenities
-- Built an intuitive web interface with dynamic location selection and instant price estimates
-- Implemented feature engineering and model optimization achieving reliable prediction accuracy
-- **Tech Stack:** Python, Scikit-learn, Flask, HTML, CSS, JavaScript
+### 🎒 [Lost & Found Platform](https://github.com/Madhaparia-Krishna/Lost-and-Found-Platform)
+**Campus Web Application | React, JavaScript, Node.js, Express.js, MySQL, JWT**
 
-### 📊 **Data Analysis Projects**
-*Data Science & Visualization | Python, Pandas, Seaborn*
-- **Zomato Data Analysis:** Explored restaurant data with statistical analysis and interactive visualizations
-- **Diwali Sales Analysis:** Analyzed sales patterns to identify trends and customer behavior insights
-- Created comprehensive EDA workflows with data cleaning, transformation, and visual storytelling
-- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- Developed a web platform for students and staff to report, search, manage, and claim lost or found items.
+- Implemented secure login, JWT-based authentication, and role-based access for users, admins, and security staff.
+- Designed dashboards for item submissions, claim handling, admin management, and security workflows.
+- Strengthened practical experience in full-stack development, database design, and RESTful API integration.
+
+### 📱 [Lost & Found Mobile App](https://github.com/Madhaparia-Krishna/Lost-and-Found-Mobile-App)
+**Mobile Application | Kotlin, Android Studio, Firebase**
+
+- Built a mobile-first extension of the lost-and-found workflow using Android Studio.
+- Used Firebase-related project configuration and mobile development practices for app-based item management.
+- Gained hands-on experience with Android project structure, Gradle, app screens, and mobile debugging.
+
+### 🚌 Matatu PAP Admin Mobile App
+**Transport Management App | React Native, Firebase, Android Studio**
+
+- Collaborated on a mobile application for managing matatu routes, schedules, and cooperative records.
+- Supported user research, prototyping, usability testing, and practical design decisions based on transport needs.
+- Applied Firebase and React Native concepts to build a useful administrative mobile workflow.
+
+### 🧠 Algorithm & Computation Models
+**Academic Programming | Python, Java, Data Structures & Algorithms**
+
+- Implemented theoretical computing models including automata and dynamic programming concepts.
+- Applied algorithmic thinking to solve structured computational problems.
+- Built a stronger foundation in DSA, logic, and software problem-solving.
+
+---
+
+## Education & Certifications
+
+### 🎓 Education
+
+**Strathmore University**  
+Bachelor of Science in Computer Science  
+Expected Graduation: **2027**  
+Current GPA: **3.59**
+
+**Shree Kutchi Leva Patel Samaj School**  
+A-Levels Certificate — Mean Grade: **B**  
+IGCSE Certificate — Mean Grade: **8 / Grade A equivalent**
+
+### 🏅 Certifications
+
+- AWS Academy Graduate - **Cloud Foundations**
+- AWS Academy Graduate - **Microservices and CI/CD Pipeline Builder**
+- CCNA: **Introduction to Networks**
+- CCNA: **Switching, Routing, and Wireless Essentials**
+- CCNA: **Enterprise Networking, Security, and Automation**
+- Cyber Threat Management
+- Introduction to Cybersecurity
+- HTML Essentials
+- Discovering Entrepreneurship
+- ICDL Certification: Word, Excel, and PowerPoint
+
+---
+
+## Experience, Leadership & Community
+
+- **Volunteer - MP Shah Hospital Medical Camp:** Assisted with logistics, patient registration, and attendee guidance in a fast-paced healthcare setting.
+- **Service-Based Learning - Strathmore University:** Built teamwork, communication, and community service experience through structured service learning.
+- **Wildlife & Environmental Club:** Participated in clean-up drives, conservation initiatives, and environmental awareness campaigns.
+- **School Leadership & Sports:** Helped organize school events, sports days, and cultural programs; represented school in badminton and netball.
 
 ---
 
@@ -77,44 +164,13 @@ A passionate **Computer science** student specializing in full-stack development
 
 ---
 
-## Education & Achievements
-
-🎓 **B.Tech in Electronics & Communication Engineering**  
-*Vellore Institute of Technology (VIT), Chennai*  
-CGPA: 8.01/10.0 | Expected Graduation: May 2026
-
-📚 **Relevant Coursework:**
-- Data Structures & Algorithms
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Machine Learning
-- Digital Signal Processing
-
-🏆 **Certifications & Courses:**
-- **Full Stack Web Development** - Udemy (July 2023 - Feb 2024)
-- **Data Science & Machine Learning** - Multiple platforms
-- **Azure Fundamentals (AZ-900)** - Microsoft (In Progress)
-
----
-
-## Professional Experience
-
-### 💼 **Web Development Intern - DLithe**
-*Bangalore | Dec 2023 - Jan 2024*
-- Developed and maintained responsive web applications using HTML, CSS, JavaScript, and React
-- Collaborated with cross-functional teams to implement new features and optimize existing code
-- Participated in code reviews and contributed to improving development workflows
-
----
-
 ## Connect With Me
 
 - 💼 **LinkedIn:** [Krishna Madhaparia](https://www.linkedin.com/in/krishna-madhaparia)
-- 📧 **Email:** krishnamahendra2004@gmail.com
-- 🌐 **GitHub:** [Madhaparia-Krishna](https://github.com/Madhaparia-Krishna)
-- 📱 **Phone:** +254 7977062605
+- 📧 **Email:** [krishnamahendra2004@gmail.com](mailto:krishnamahendra2004@gmail.com)
+- 🐙 **GitHub:** [Madhaparia-Krishna](https://github.com/Madhaparia-Krishna)
+- 📱 **Phone:** +254 797 663 630
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=110&section=footer" alt="Footer Banner" />
 </p>

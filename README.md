@@ -4,7 +4,7 @@
 
 # Hi there, I'm Krishna Madhaparia 👋
 
-A passionate **Electronics & Communication Engineering** student specializing in full-stack development and data science. I thrive on building innovative solutions that bridge hardware and software, with a keen interest in web technologies, embedded systems, and AI-driven applications. Currently in my final year at **VIT Chennai**, I'm focused on creating impactful projects that solve real-world problems.
+A passionate **Electronics & Communication Engineering** student specializing in full-stack development and data science. I thrive on building innovative solutions that bridge hardware and software, with a keen interest in web technologies, embedded systems, and AI-driven applications. Currently in my final year at **Strathmore University**, I'm focused on creating impactful projects that solve real-world problems.
 
 - 🔭 **Current Focus:** Building full-stack applications, exploring machine learning applications in IoT, and developing scalable web solutions
 - 🌱 **Learning & Exploration:** Advanced React patterns, Next.js, Microservices architecture, Docker, Cloud technologies (AWS, Azure), and Deep Learning frameworks

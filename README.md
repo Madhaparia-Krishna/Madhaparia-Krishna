@@ -1,8 +1,7 @@
-```html
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FDF2F8,50:ECFDF5,100:FFFBEB&amp;height=180&amp;section=header&amp;text=WELCOME%20TO%20MY%20PROFILE&amp;fontSize=40&amp;fontColor=111827&amp;fontAlignY=38&amp;desc=Krishna%20Madhaparia%20%7C%20Computer%20Science%20Student&amp;descAlignY=58&amp;descColor=374151&amp;animation=fadeIn" alt="Welcome Banner" />
 </p>
-```
+
 
 <div align="center">
 

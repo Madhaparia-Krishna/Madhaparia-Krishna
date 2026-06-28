@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Madhaparia-Krishna profile_79df7644"
+        },
+        {
+            "type": "python",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

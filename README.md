@@ -74,9 +74,7 @@ Python, Java — implementations of automata, dynamic programming, and computati
 
 <img width="55.5%" src="https://github-readme-stats-eeshan04.vercel.app/api?username=Madhaparia-Krishna&show_icons=true&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=059669&icon_color=F59E0B&text_color=374151&include_all_commits=true&count_private=true" alt="Krishna's GitHub Stats" />
 <img width="42%" src="https://github-readme-stats-eeshan04.vercel.app/api/top-langs/?username=Madhaparia-Krishna&layout=compact&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=059669&text_color=374151" alt="Top Languages" />
-<img width="97.5%" src="https://streak-stats.vercel.app?user=Madhaparia-Krishna&layout=compact&hide_border=false&border_color=E5E7EB&bg_color=FFFFFF&title_color=059669&text_color=374151"
-    alt="Krishna's GitHub Streak Stats"
-  />
+<img width="97.5%" src="./profile/streak.svg" alt="Krishna's GitHub Streak Stats" /
 <img width="97.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhaparia-Krishna&bg_color=FFFFFF&color=374151&line=10B981&point=F59E0B&area=true&area_color=D1FAE5&hide_border=false&border_color=E5E7EB&custom_title=Krishna%27s%20Contribution%20Graph" alt="Contribution Graph" />
 
 
